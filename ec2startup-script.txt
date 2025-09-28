@@ -47,3 +47,4 @@ echo "
 
 # Clean up the temp files
 rm -f /tmp/local_ipv4 /tmp/az /tmp/macid
+
